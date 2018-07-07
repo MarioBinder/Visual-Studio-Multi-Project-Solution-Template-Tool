@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VSSolutionTemplateTool" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="SolutionFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\DEV\MBD\SEMAS\src v3\MBD.SEMAS.ExampleApiService</Value>
+    </Setting>
+    <Setting Name="DestinationFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F:\DEV\MBD\SEMAS\src v3\Softcrafts.ExampleApiService</Value>
+    </Setting>
+    <Setting Name="KeywordForReplacement" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MBD.SEMAS</Value>
+    </Setting>
+    <Setting Name="NewSolutionKeyword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Softcrafts</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

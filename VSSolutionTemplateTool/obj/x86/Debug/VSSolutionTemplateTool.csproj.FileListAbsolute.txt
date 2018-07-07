@@ -1,0 +1,7 @@
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\bin\Debug\VSSolutionTemplateTool.exe
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\bin\Debug\VSSolutionTemplateTool.pdb
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\obj\x86\Debug\VSSolutionTemplateTool.csproj.CoreCompileInputs.cache
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\obj\x86\Debug\VSSolutionTemplateTool.exe
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\obj\x86\Debug\VSSolutionTemplateTool.pdb
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\bin\Debug\VSSolutionTemplateTool.exe.config
+C:\Users\mbinder\Downloads\Visual-Studio-Multi-Project-Solution-Template-Tool-master\VSSolutionTemplateTool\obj\x86\Debug\VSSolutionTemplateTool.csprojResolveAssemblyReference.cache
